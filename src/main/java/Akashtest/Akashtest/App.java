@@ -14,6 +14,8 @@ public class App {
 		System.out.println("third message");
 		System.out.println("for try");
 		
+		System.out.println("today message");
+		System.out.println("for try");
 		
 		
 		System.out.println("hello");
